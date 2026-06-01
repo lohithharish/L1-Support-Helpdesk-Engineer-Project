@@ -79,11 +79,9 @@ The project covers the complete incident management lifecycle, SLA monitoring, t
 * Password Reset
 * Account Locked Out
 * VPN Access Issues
-* VPN Account Disabled
 * Microsoft Teams Installation
-* Outlook Access Problems
 * User Account Management
-* Security Group Access Requests
+
 
 ---
 
@@ -98,7 +96,7 @@ The project covers the complete incident management lifecycle, SLA monitoring, t
 * User Account Management
 * Documentation & Work Notes
 * Customer Support
-* ITSM Best Practices
+
 
 ---
 
@@ -153,6 +151,6 @@ B.Tech Computer Engineering (AI & ML)
 
 LinkedIn: linkedin.com/in/lohith-harish-computer-engineer-aiandml
 
-GitHub: [Add Your GitHub Profile]
+GitHub: [[Add Your GitHub Profile]](https://github.com/lohithharish)
 
 Email: [lohithharishmv@gmail.com](mailto:lohithharishmv@gmail.com)
