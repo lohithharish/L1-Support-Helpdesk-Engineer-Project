@@ -1,5 +1,3 @@
-Perfect. If this GitHub repository contains **only the 4 uploaded ServiceNow incident PDFs**, use a focused README like this:
-
 # 🎫 ServiceNow Incident Management Portfolio
 
 ## 📌 Overview
@@ -136,10 +134,3 @@ Device was connected to a network but had no internet access.
 
 ---
 
-### 👨‍💻 Author
-
-**MH Lohith**
-B.Tech Computer Engineering (AI & ML)
-Aspiring IT Support / Service Desk Analyst / ServiceNow Professional
-
-⭐ This repository demonstrates hands-on experience with real-world ServiceNow incident management workflows and L1 IT support activities.
